@@ -1,0 +1,6 @@
+~~~~~~~~~~~~~~~~~~~~~~~~Student Record~~~~~~~~~~~~~~~~~~~~~~~~
+To show All books enter : Show
+To add Book Enter :Add
+To find Books by Author name Enter: FAuthor
+To find Books by Title Enter: FTitle
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
